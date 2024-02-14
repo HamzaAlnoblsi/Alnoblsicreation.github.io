@@ -1,0 +1,42 @@
+.destination-grid {  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;   /* Det här hur stor mellan rum för bildern på sidan (our destinations)*/
+}
+
+img{ /* Med denna css ställer in marginaler lägger till kan och bestämmer bredde och höjden för bilden*/ 
+    margin-top: 2rem; 
+   
+    margin-right: 20px;
+    border: 5px solid;
+    width:7cm ;
+    height: 7cm;
+}
+
+.center h1 /*För att centrera en rubik på webbsida och ändra på sin storlek*/
+{
+    
+    width: 350px;
+    font-size: 55px;
+    position: absolute;
+    top: 10%;
+    left: 3%;
+    color:rgb(234, 255, 0);
+}
+.continent /* Storleken för världsdel rubriken*/
+{
+   font-size: 36px;
+    margin: 0px;
+    color:rgb(0, 0, 0);
+    
+}
+h3
+{
+    font-size: 30px; /* Storleken för land rubriken*/
+    font-family: 'Times New Roman', Times, serif;
+color: rgb(31, 61, 97);
+}
+
+
+
+
+
