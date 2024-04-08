@@ -51,7 +51,7 @@ background-position: center;
     position: fixed;
     z-index: -100000; /* Jag använvnde denna för att placera elemntet bakom andra elementen*/
     filter: brightness(50%);
-    width: 150%;
+    width: 170%;
    
 }
 /*.center{
